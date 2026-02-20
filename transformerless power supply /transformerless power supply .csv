@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D1,D4,D3,D2";"D_DO-41_SOD81_P10.16mm_Horizontal";4;"1N4007";;;
+2;"D6,D5";"D_A-405_P7.62mm_Horizontal";2;"D_Zener";;;
+3;"R3,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"20k";;;
+4;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"R";;;
+5;"C2";"C_Disc_D4.7mm_W2.5mm_P5.00mm";1;"0.1uf";;;
+6;"J2,J1";"TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal";2;"Screw_Terminal_01x02";;;
+7;"U1";"TO-220-3_Vertical";1;"LM7805_TO220";;;
+8;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"1m";;;
+9;"C1";"C_Rect_L18.0mm_W6.0mm_P15.00mm_FKS3_FKP3";1;"225k/2.2uf";;;
+10;"C3";"C_Radial_D10.0mm_H12.5mm_P5.00mm";1;"1000uf";;;
+11;"C4";"C_Radial_D10.0mm_H12.5mm_P5.00mm";1;"470uf";;;
+12;"D7";"LED_D5.0mm";1;"LED";;;

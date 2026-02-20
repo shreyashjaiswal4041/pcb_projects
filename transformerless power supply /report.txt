@@ -1,0 +1,24 @@
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Cu.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Cu.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Paste.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Paste.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Silkscreen.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Silkscreen.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Mask.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Mask.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -Edge_Cuts.gbr'.
+Created Gerber job file '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -job.gbrjob'.
+Info: Done.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Cu.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Cu.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Paste.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Paste.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Silkscreen.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Silkscreen.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -F_Mask.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -B_Mask.gbr'.
+Plotted to '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -Edge_Cuts.gbr'.
+Created Gerber job file '/Users/shreyashjaiswal/Documents/first/transformerless power supply /transformerless power supply -job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.

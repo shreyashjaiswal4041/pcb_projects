@@ -1,0 +1,21 @@
+### Footprint positions - created on 2025-11-05T10:07:10+0530 ###
+### Printed by KiCad version 9.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                PosX       PosY       Rot  Side
+C1        100nF                 C_Disc_D4.7mm_W2.5mm_P5.00mm                        74.5000  -103.5000    0.0000  top
+C2        100nf                 C_Disc_D4.7mm_W2.5mm_P5.00mm                        93.0000  -104.0000  180.0000  top
+C3        1000uf                CP_Radial_D10.0mm_P5.00mm                           73.6323   -83.5000    0.0000  top
+D1        1N4007                D_DO-41_SOD81_P10.16mm_Horizontal                   81.5000   -89.9200  -90.0000  top
+D2        1N4007                D_DO-41_SOD81_P10.16mm_Horizontal                   86.0000  -100.0800   90.0000  top
+D3        1N4007                D_DO-41_SOD81_P10.16mm_Horizontal                   97.5000  -103.5000    0.0000  top
+D4        LED                   LED_D5.0mm                                          66.2250  -103.5000    0.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm      64.4675   -94.2500   90.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm     110.4675   -97.2500   90.0000  top
+Q1        TIP122                TO-220-3_Vertical                                  107.9200   -85.5000    0.0000  top
+R1        1K                    R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal    77.0000   -99.3100   90.0000  top
+R2        1k                    R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal    90.8050   -96.5800   90.0000  top
+R3        2.2K                  R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal    73.5000   -99.3100   90.0000  top
+RV1       100k                  Potentiometer_Alps_RK163_Single_Horizontal          99.0000   -80.0500  -90.0000  top
+U1        NE555P                DIP-8_W7.62mm                                       94.5000   -89.4600    0.0000  top
+## End
